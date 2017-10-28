@@ -11,6 +11,7 @@
     "bluebird": "^3.5.0",
     "dotenv": "^4.0.0",
     "github": "^9.2.0",
+    "node-crontab": "0.0.8",
     "request": "^2.81.0"
   },
   "devDependencies": {}
